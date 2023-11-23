@@ -1,4 +1,5 @@
-# SCSA 웹 프로젝트
+# SCSA 웹 프로젝트 
+
 <p align="center">
   <img src="https://github.com/projectJunJun/.github/assets/30275955/dec9f65c-2471-48f3-828e-313f749cc9e1">
 </p>
@@ -7,6 +8,13 @@
 💎 개발 목적 : 사용자 친화적인 태블릿 주문 시스템으로 고객이 간편하게 주문을 생성하고 업주가 효율적으로 주문을 관리하기 하기 위함
 
 <br><br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"/>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2FprojectJunJun&count_bg=%23FF9933&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  </a>
+</p>
+<br>
 
 ## 💻 기술 스택
 ### Frontend
