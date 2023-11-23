@@ -5,16 +5,14 @@
 </p>
 📅 프로젝트 기간 : 2023.11.13(월) ~ 24(금)   <br>
 🍗 프로젝트 설명 : 웹과 태블릿으로 이용할 수 있는 주문 시스템 개발   <br>
-💎 개발 목적 : 사용자 친화적인 태블릿 주문 시스템으로 고객이 간편하게 주문을 생성하고 업주가 효율적으로 주문을 관리하기 하기 위함
+💎 개발 목적 : 사용자 친화적인 태블릿 주문 시스템으로 고객이 간편하게 주문하고 업주가 효율적으로 관리하기 위함   <br>
 
-<br><br>
-
+<br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"/>
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738%2FprojectJunJun&count_bg=%23FF9933&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
   </a>
 </p>
-<br>
 
 ## 💻 기술 스택
 ### Frontend
