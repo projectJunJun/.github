@@ -49,6 +49,7 @@
 ![004 (1)](https://github.com/projectJunJun/Project/assets/76475966/283b6dd5-2b83-4bb6-a7fe-42821f743a56)
 ![005](https://github.com/projectJunJun/Project/assets/76475966/d0b53566-9f41-452c-9102-a83e75badb86)
 
+<br>
 ## 🤩 팀원별 역할
 <table>
     <tr height="140px">
