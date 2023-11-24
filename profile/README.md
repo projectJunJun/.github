@@ -1,7 +1,7 @@
 # 🍗 SCSA 웹 프로젝트 
 
 <p align="center">
-  <img src="https://github.com/projectJunJun/.github/assets/30275955/dec9f65c-2471-48f3-828e-313f749cc9e1">
+  <img src="https://github.com/projectJunJun/.github/assets/30275955/bdf258b8-44a2-4a60-8ada-9beb692ddb14">
 </p>
 📅 프로젝트 기간 : 2023.11.13(월) ~ 24(금)   <br>
 💎 프로젝트 설명 : 웹과 태블릿으로 이용할 수 있는 주문 시스템 개발   <br>
