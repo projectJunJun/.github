@@ -46,8 +46,8 @@
 
 ### 2) 유저 기능
 ![003 (1)](https://github.com/projectJunJun/Project/assets/76475966/e5f124c9-6145-4fcb-99da-7e2a8e5c5648)
-![004 (1)](https://github.com/projectJunJun/Project/assets/76475966/283b6dd5-2b83-4bb6-a7fe-42821f743a56)
-![005](https://github.com/projectJunJun/Project/assets/76475966/d0b53566-9f41-452c-9102-a83e75badb86)
+![004 (1)](https://github.com/projectJunJun/.github/assets/76475966/58a6e450-bb1e-430c-9243-6a77f3eac13f)
+![005](https://github.com/projectJunJun/.github/assets/76475966/74e4441d-d0cb-4041-9cfc-6ce4cbbc46c7)
 <br>
 <br>
 
