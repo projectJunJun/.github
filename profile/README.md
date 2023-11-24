@@ -115,4 +115,4 @@
 <br>
 
 ## 😆 이것도 봐죠잉
-자세한 정보는 [노션 페이지](https://www.notion.so/everyday-dreaming/8-Business-Proposal-ded22a2aa4af405cb46dbc7ed5e17c87?pvs=4)를 참고해주세요
+자세한 정보는 [노션 페이지](https://everyday-dreaming.notion.site/Business-Proposal-ded22a2aa4af405cb46dbc7ed5e17c87?pvs=4)를 참고해주세요
