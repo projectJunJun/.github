@@ -1,4 +1,4 @@
-# 🍗 SCSA 웹 프로젝트 
+# 🍗 준준치킨 - SCSA 웹 프로젝트 
 
 <p align="center">
   <img src="https://github.com/projectJunJun/.github/assets/30275955/bdf258b8-44a2-4a60-8ada-9beb692ddb14">
